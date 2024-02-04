@@ -24,16 +24,6 @@ TIS is a web based platform where users can raise tickets to contact admin suppo
 | `Client`  | Vercel.com |
 | `Server`  | Render.com |
 
-<br>
-
-## Solution Architecture
-
-![Solution architecture](https://github.com/rulezcasa/MERN_TICKETS/assets/108048779/ac41d477-b97e-48f7-ac2b-2fb91fad7f27)
-
-<br>
-
-
-<br>
 
 ## To run this on your local system
 
