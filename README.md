@@ -32,10 +32,6 @@ TIS is a web based platform where users can raise tickets to contact admin suppo
 
 <br>
 
-## Application screenshot
-
-
-<img width="1159" alt="Screenshot 2023-11-21 at 9 54 08 AM" src="https://github.com/rulezcasa/MERN_TICKETS/assets/108048779/08c729e1-354f-46b0-ae56-2e52baaf4d9d">
 
 <br>
 
